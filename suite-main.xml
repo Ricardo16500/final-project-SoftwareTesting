@@ -1,0 +1,37 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Full Regression" verbose="1">
+    <test name="Regression Test in Firefox">
+        <parameter name="browser" value="firefox"/>
+
+        <classes>
+            <class name="login.LoginTest">
+                <methods>
+                    <include name="loginTest"/>
+                    <include name="loginTestWithBadPassword"/>
+                    <include name="loginTestWithBadEmail"/>
+                </methods>
+            </class>
+            <class name="addToCart.AddToCartTest">
+                <methods>
+                    <include name="menProductsAddToCartTest"/>
+                </methods>
+            </class>
+            <class name="confirmPurchase.ConfirmPurchaseTest">
+                <methods>
+                    <include name="confirmPurchaseTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Regression Test in Chrome">
+        <parameter name="browser" value="chrome"/>
+        <packages>
+            <package name="login"/>
+            <package name="addToCart"/>
+            <package name="confirmPurchase"/>
+        </packages>
+    </test>
+
+</suite>

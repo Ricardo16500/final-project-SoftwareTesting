@@ -1,0 +1,396 @@
+2024-01-12T11:37:26,037 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:37:31,049 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:37:42,894 [main] INFO  (LoginTest.java:31) - Start login test
+2024-01-12T11:37:52,425 [main] INFO  (LoginTest.java:37) - put user email
+2024-01-12T11:37:52,914 [main] INFO  (LoginTest.java:39) - put password
+2024-01-12T11:37:54,166 [main] INFO  (LoginTest.java:42) - click login button
+2024-01-12T11:38:09,652 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:38:12,497 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:38:20,431 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:38:28,225 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:38:31,960 [main] INFO  (LoginTest.java:79) - Start loginTestWithBadEmail
+2024-01-12T11:38:35,252 [main] INFO  (LoginTest.java:81) - click login button
+2024-01-12T11:38:37,752 [main] INFO  (LoginTest.java:84) - click email button
+2024-01-12T11:38:39,012 [main] INFO  (LoginTest.java:87) - put user email
+2024-01-12T11:38:39,409 [main] INFO  (LoginTest.java:89) - put password
+2024-01-12T11:38:41,180 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:38:43,769 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:38:45,543 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:38:51,193 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:38:54,407 [main] INFO  (LoginTest.java:56) - Start loginTestWithBadPassword
+2024-01-12T11:38:54,684 [main] INFO  (LoginTest.java:58) - click login button
+2024-01-12T11:38:56,621 [main] INFO  (LoginTest.java:61) - click email button
+2024-01-12T11:38:58,176 [main] INFO  (LoginTest.java:64) - put user email
+2024-01-12T11:38:58,580 [main] INFO  (LoginTest.java:66) - put password
+2024-01-12T11:39:00,140 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:39:02,571 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:39:04,285 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:39:09,311 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:39:12,645 [main] INFO  (LoginTest.java:100) - Start loginTestWithUnregisterUser
+2024-01-12T11:39:19,469 [main] INFO  (LoginTest.java:106) - put user email
+2024-01-12T11:39:19,954 [main] INFO  (LoginTest.java:108) - put password
+2024-01-12T11:39:21,784 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:39:24,109 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:46:37,336 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:46:49,879 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:46:51,371 [main] INFO  (LoginTest.java:31) - Start login test
+2024-01-12T11:46:56,331 [main] INFO  (LoginTest.java:37) - put user email
+2024-01-12T11:46:56,803 [main] INFO  (LoginTest.java:39) - put password
+2024-01-12T11:46:58,052 [main] INFO  (LoginTest.java:42) - click login button
+2024-01-12T11:48:43,656 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:48:50,402 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:48:52,163 [main] INFO  (LoginTest.java:31) - Start login test
+2024-01-12T11:48:57,885 [main] INFO  (LoginTest.java:37) - put user email
+2024-01-12T11:48:58,986 [main] INFO  (LoginTest.java:39) - put password
+2024-01-12T11:49:01,684 [main] INFO  (LoginTest.java:42) - click login button
+2024-01-12T11:49:09,428 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:49:11,941 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:49:14,442 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:49:19,570 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:49:22,555 [main] INFO  (LoginTest.java:80) - Start loginTestWithBadEmail
+2024-01-12T11:49:22,985 [main] INFO  (LoginTest.java:82) - click login button
+2024-01-12T11:49:24,859 [main] INFO  (LoginTest.java:85) - click email button
+2024-01-12T11:49:26,539 [main] INFO  (LoginTest.java:88) - put user email
+2024-01-12T11:49:27,152 [main] INFO  (LoginTest.java:90) - put password
+2024-01-12T11:49:28,792 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:49:31,242 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:49:37,855 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:49:43,781 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:49:46,088 [main] INFO  (LoginTest.java:57) - Start loginTestWithBadPassword
+2024-01-12T11:49:46,261 [main] INFO  (LoginTest.java:59) - click login button
+2024-01-12T11:49:47,695 [main] INFO  (LoginTest.java:62) - click email button
+2024-01-12T11:49:48,801 [main] INFO  (LoginTest.java:65) - put user email
+2024-01-12T11:49:49,203 [main] INFO  (LoginTest.java:67) - put password
+2024-01-12T11:49:50,479 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:49:52,952 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:49:55,413 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:50:01,228 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:50:02,973 [main] INFO  (LoginTest.java:101) - Start loginTestWithUnregisterUser
+2024-01-12T11:50:07,625 [main] INFO  (LoginTest.java:107) - put user email
+2024-01-12T11:50:07,978 [main] INFO  (LoginTest.java:109) - put password
+2024-01-12T11:50:09,023 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:50:11,550 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:53:08,305 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:53:13,448 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:53:17,815 [main] INFO  (LoginTest.java:31) - Start login test
+2024-01-12T11:53:25,092 [main] INFO  (LoginTest.java:37) - put user email
+2024-01-12T11:53:25,501 [main] INFO  (LoginTest.java:39) - put password
+2024-01-12T11:53:26,964 [main] INFO  (LoginTest.java:42) - click login button
+2024-01-12T11:54:08,943 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:54:11,693 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:54:14,378 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:54:19,600 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:54:21,835 [main] INFO  (LoginTest.java:80) - Start loginTestWithBadEmail
+2024-01-12T11:54:22,014 [main] INFO  (LoginTest.java:82) - click login button
+2024-01-12T11:54:24,528 [main] INFO  (LoginTest.java:85) - click email button
+2024-01-12T11:54:26,103 [main] INFO  (LoginTest.java:88) - put user email
+2024-01-12T11:54:26,612 [main] INFO  (LoginTest.java:90) - put password
+2024-01-12T11:54:28,837 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:54:31,140 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:54:33,474 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:54:39,049 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:54:41,612 [main] INFO  (LoginTest.java:57) - Start loginTestWithBadPassword
+2024-01-12T11:54:42,631 [main] INFO  (LoginTest.java:59) - click login button
+2024-01-12T11:54:46,933 [main] INFO  (LoginTest.java:62) - click email button
+2024-01-12T11:54:48,038 [main] INFO  (LoginTest.java:65) - put user email
+2024-01-12T11:54:48,959 [main] INFO  (LoginTest.java:67) - put password
+2024-01-12T11:54:50,948 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:54:53,450 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T11:54:55,925 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T11:55:01,042 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T11:55:03,476 [main] INFO  (LoginTest.java:101) - Start loginTestWithUnregisterUser
+2024-01-12T11:55:07,973 [main] INFO  (LoginTest.java:107) - put user email
+2024-01-12T11:55:08,579 [main] INFO  (LoginTest.java:109) - put password
+2024-01-12T11:55:09,639 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T11:55:11,968 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T22:57:40,976 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T22:57:46,602 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T22:57:51,755 [main] INFO  (LoginTest.java:31) - Start login test
+2024-01-12T22:57:56,262 [main] INFO  (LoginTest.java:37) - put user email
+2024-01-12T22:57:57,305 [main] INFO  (LoginTest.java:39) - put password
+2024-01-12T22:58:00,879 [main] INFO  (LoginTest.java:42) - click login button
+2024-01-12T22:58:43,566 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T22:58:46,260 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T22:58:48,143 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T22:58:57,798 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T22:59:00,496 [main] INFO  (LoginTest.java:80) - Start loginTestWithBadEmail
+2024-01-12T22:59:01,471 [main] INFO  (LoginTest.java:82) - click login button
+2024-01-12T22:59:04,359 [main] INFO  (LoginTest.java:85) - click email button
+2024-01-12T22:59:05,786 [main] INFO  (LoginTest.java:88) - put user email
+2024-01-12T22:59:07,085 [main] INFO  (LoginTest.java:90) - put password
+2024-01-12T22:59:08,225 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T22:59:10,744 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T22:59:12,555 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T22:59:18,116 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T22:59:21,022 [main] INFO  (LoginTest.java:57) - Start loginTestWithBadPassword
+2024-01-12T22:59:21,234 [main] INFO  (LoginTest.java:59) - click login button
+2024-01-12T22:59:22,923 [main] INFO  (LoginTest.java:62) - click email button
+2024-01-12T22:59:24,542 [main] INFO  (LoginTest.java:65) - put user email
+2024-01-12T22:59:24,907 [main] INFO  (LoginTest.java:67) - put password
+2024-01-12T22:59:26,081 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T22:59:28,394 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T22:59:30,581 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T22:59:36,083 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T22:59:39,584 [main] INFO  (LoginTest.java:101) - Start loginTestWithUnregisterUser
+2024-01-12T22:59:42,618 [main] INFO  (LoginTest.java:107) - put user email
+2024-01-12T22:59:42,973 [main] INFO  (LoginTest.java:109) - put password
+2024-01-12T22:59:44,043 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T22:59:48,225 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T22:59:50,379 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:00:05,875 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:00:06,986 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:00:11,741 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:00:12,176 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:00:13,564 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:00:53,509 [main] INFO  (AddToCartTest.java:91) - Start cartEmptyTest
+2024-01-12T23:00:55,571 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:00:58,052 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:00:59,998 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:01:07,295 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:01:10,359 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:01:13,657 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:01:14,106 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:01:15,078 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:01:54,640 [main] INFO  (AddToCartTest.java:58) - Start menProductsAddToCartTest
+2024-01-12T23:01:55,619 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:02:05,054 [main] INFO  (AddToCartTest.java:69) - Click on product
+2024-01-12T23:02:16,062 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:02:19,188 [main] INFO  (AddToCartTest.java:69) - Click on product
+2024-01-12T23:02:26,243 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:02:29,292 [main] INFO  (AddToCartTest.java:69) - Click on product
+2024-01-12T23:02:38,337 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:02:41,840 [main] INFO  (AddToCartTest.java:69) - Click on product
+2024-01-12T23:02:48,373 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:03:25,470 [main] INFO  (BaseTest.java:50) - Test failed
+2024-01-12T23:03:28,202 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:03:30,112 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:03:39,088 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:03:39,979 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:03:43,929 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:03:44,855 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:03:45,649 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:04:26,396 [main] INFO  (AddToCartTest.java:104) - Start womenProductsAddToCartTest
+2024-01-12T23:04:26,659 [main] INFO  (AddToCartTest.java:113) - Switch men products
+2024-01-12T23:04:47,381 [main] INFO  (AddToCartTest.java:113) - Switch men products
+2024-01-12T23:05:00,456 [main] INFO  (AddToCartTest.java:113) - Switch men products
+2024-01-12T23:05:15,209 [main] INFO  (AddToCartTest.java:113) - Switch men products
+2024-01-12T23:05:27,825 [main] INFO  (AddToCartTest.java:113) - Switch men products
+2024-01-12T23:05:40,535 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:05:43,090 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:05:44,952 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:05:50,468 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:05:53,417 [main] INFO  (ConfirmPurchaseTest.java:32) - Start test with login
+2024-01-12T23:05:56,939 [main] INFO  (ConfirmPurchaseTest.java:38) - put user email
+2024-01-12T23:05:57,327 [main] INFO  (ConfirmPurchaseTest.java:40) - put password
+2024-01-12T23:05:58,395 [main] INFO  (ConfirmPurchaseTest.java:43) - click login button
+2024-01-12T23:13:29,029 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:13:33,921 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:13:35,776 [main] INFO  (LoginTest.java:31) - Start login test
+2024-01-12T23:13:39,954 [main] INFO  (LoginTest.java:37) - put user email
+2024-01-12T23:13:40,639 [main] INFO  (LoginTest.java:39) - put password
+2024-01-12T23:13:41,510 [main] INFO  (LoginTest.java:42) - click login button
+2024-01-12T23:14:24,931 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:14:27,502 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:14:30,500 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:14:36,365 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:14:38,170 [main] INFO  (LoginTest.java:80) - Start loginTestWithBadEmail
+2024-01-12T23:14:38,365 [main] INFO  (LoginTest.java:82) - click login button
+2024-01-12T23:14:40,970 [main] INFO  (LoginTest.java:85) - click email button
+2024-01-12T23:14:42,326 [main] INFO  (LoginTest.java:88) - put user email
+2024-01-12T23:14:42,858 [main] INFO  (LoginTest.java:90) - put password
+2024-01-12T23:14:44,582 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:14:47,039 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:14:49,068 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:14:54,935 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:14:57,094 [main] INFO  (LoginTest.java:57) - Start loginTestWithBadPassword
+2024-01-12T23:14:57,270 [main] INFO  (LoginTest.java:59) - click login button
+2024-01-12T23:14:59,576 [main] INFO  (LoginTest.java:62) - click email button
+2024-01-12T23:15:00,995 [main] INFO  (LoginTest.java:65) - put user email
+2024-01-12T23:15:01,590 [main] INFO  (LoginTest.java:67) - put password
+2024-01-12T23:15:02,697 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:15:05,364 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:15:07,237 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:15:12,544 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:15:14,146 [main] INFO  (LoginTest.java:101) - Start loginTestWithUnregisterUser
+2024-01-12T23:15:17,928 [main] INFO  (LoginTest.java:107) - put user email
+2024-01-12T23:15:18,269 [main] INFO  (LoginTest.java:109) - put password
+2024-01-12T23:15:19,903 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:15:22,417 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:15:24,229 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:15:31,770 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:15:33,972 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:15:38,077 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:15:38,692 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:15:39,658 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:16:20,210 [main] INFO  (AddToCartTest.java:95) - Start cartEmptyTest
+2024-01-12T23:16:22,575 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:16:25,085 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:16:26,970 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:16:33,911 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:16:36,249 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:16:40,554 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:16:41,163 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:16:42,024 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:17:22,289 [main] INFO  (AddToCartTest.java:58) - Start menProductsAddToCartTest
+2024-01-12T23:17:23,303 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:17:33,210 [main] INFO  (AddToCartTest.java:70) - Click on product
+2024-01-12T23:17:44,129 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:17:47,265 [main] INFO  (AddToCartTest.java:70) - Click on product
+2024-01-12T23:17:54,764 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:17:57,602 [main] INFO  (AddToCartTest.java:70) - Click on product
+2024-01-12T23:18:04,189 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:18:07,106 [main] INFO  (AddToCartTest.java:70) - Click on product
+2024-01-12T23:18:13,806 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:18:51,144 [main] INFO  (AddToCartTest.java:80) - Error: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'PUMA BILLETERA BMW MMS')]"}
+  (Session info: chrome=119.0.6045.159)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'fabio-laptop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-14-generic', java.version: '11.0.21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.159, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37553}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4f7005454ef4b3a8c8400062edbc908b
+*** Element info: {Using=xpath, value=//span[contains(text(),'PUMA BILLETERA BMW MMS')]}
+2024-01-12T23:18:51,638 [main] INFO  (AddToCartTest.java:85) - Click on shopping cart
+2024-01-12T23:18:52,847 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:18:55,337 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:18:57,208 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:19:02,615 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:19:04,872 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:19:09,159 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:19:09,697 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:19:10,550 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:19:16,255 [main] INFO  (AddToCartTest.java:108) - Start womenProductsAddToCartTest
+2024-01-12T23:19:17,016 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:19:35,664 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:19:49,311 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:20:01,413 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:20:15,763 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:20:27,973 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:20:30,898 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:20:32,474 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:20:40,985 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:20:42,586 [main] INFO  (ConfirmPurchaseTest.java:32) - Start test with login
+2024-01-12T23:20:46,411 [main] INFO  (ConfirmPurchaseTest.java:38) - put user email
+2024-01-12T23:20:47,337 [main] INFO  (ConfirmPurchaseTest.java:40) - put password
+2024-01-12T23:20:48,238 [main] INFO  (ConfirmPurchaseTest.java:43) - click login button
+2024-01-12T23:24:25,195 [main] INFO  (BaseTest.java:50) - Test failed
+2024-01-12T23:24:28,976 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:37:54,181 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:38:02,590 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:38:05,546 [main] INFO  (LoginTest.java:31) - Start login test
+2024-01-12T23:38:13,675 [main] INFO  (LoginTest.java:37) - put user email
+2024-01-12T23:38:14,575 [main] INFO  (LoginTest.java:39) - put password
+2024-01-12T23:38:16,634 [main] INFO  (LoginTest.java:42) - click login button
+2024-01-12T23:39:02,153 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:39:06,159 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:39:09,441 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:39:14,288 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:39:17,584 [main] INFO  (LoginTest.java:80) - Start loginTestWithBadEmail
+2024-01-12T23:39:17,797 [main] INFO  (LoginTest.java:82) - click login button
+2024-01-12T23:39:19,665 [main] INFO  (LoginTest.java:85) - click email button
+2024-01-12T23:39:20,844 [main] INFO  (LoginTest.java:88) - put user email
+2024-01-12T23:39:21,207 [main] INFO  (LoginTest.java:90) - put password
+2024-01-12T23:39:22,654 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:39:25,161 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:39:27,279 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:39:32,722 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:39:35,928 [main] INFO  (LoginTest.java:57) - Start loginTestWithBadPassword
+2024-01-12T23:39:36,310 [main] INFO  (LoginTest.java:59) - click login button
+2024-01-12T23:39:38,314 [main] INFO  (LoginTest.java:62) - click email button
+2024-01-12T23:39:39,406 [main] INFO  (LoginTest.java:65) - put user email
+2024-01-12T23:39:39,848 [main] INFO  (LoginTest.java:67) - put password
+2024-01-12T23:39:41,428 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:39:43,813 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:39:45,844 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:39:51,582 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:39:53,818 [main] INFO  (LoginTest.java:101) - Start loginTestWithUnregisterUser
+2024-01-12T23:39:57,304 [main] INFO  (LoginTest.java:107) - put user email
+2024-01-12T23:39:57,645 [main] INFO  (LoginTest.java:109) - put password
+2024-01-12T23:39:58,753 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:40:01,260 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:40:06,080 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:40:12,299 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:40:14,643 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:40:19,506 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:40:19,884 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:40:20,801 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:41:01,820 [main] INFO  (AddToCartTest.java:95) - Start cartEmptyTest
+2024-01-12T23:41:06,407 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:41:09,146 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:41:12,582 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:41:17,549 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:41:20,717 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:41:24,085 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:41:24,484 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:41:25,565 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:42:04,613 [main] INFO  (AddToCartTest.java:58) - Start menProductsAddToCartTest
+2024-01-12T23:42:05,770 [main] INFO  (AddToCartTest.java:64) - Switch men products
+2024-01-12T23:42:16,611 [main] INFO  (BaseTest.java:50) - Test failed
+2024-01-12T23:42:20,188 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:42:22,364 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:42:27,580 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:42:32,106 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:42:36,279 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:42:36,887 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:42:38,563 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:43:19,435 [main] INFO  (AddToCartTest.java:108) - Start womenProductsAddToCartTest
+2024-01-12T23:43:20,141 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:43:39,807 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:43:52,578 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:44:06,153 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:44:19,941 [main] INFO  (AddToCartTest.java:117) - Switch men products
+2024-01-12T23:44:33,358 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:44:36,055 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:44:38,516 [main] INFO  (BaseTest.java:34) - Opening browser chrome
+2024-01-12T23:44:48,702 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:44:50,136 [main] INFO  (ConfirmPurchaseTest.java:32) - Start test with login
+2024-01-12T23:44:54,379 [main] INFO  (ConfirmPurchaseTest.java:38) - put user email
+2024-01-12T23:44:54,780 [main] INFO  (ConfirmPurchaseTest.java:40) - put password
+2024-01-12T23:44:56,848 [main] INFO  (ConfirmPurchaseTest.java:43) - click login button
+2024-01-12T23:48:30,885 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:48:33,573 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:49:09,976 [main] INFO  (BaseTest.java:34) - Opening browser firefox
+2024-01-12T23:49:18,933 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:49:22,422 [main] INFO  (LoginTest.java:31) - Start login test
+2024-01-12T23:49:37,628 [main] INFO  (LoginTest.java:37) - put user email
+2024-01-12T23:49:39,620 [main] INFO  (LoginTest.java:39) - put password
+2024-01-12T23:49:44,090 [main] INFO  (LoginTest.java:42) - click login button
+2024-01-12T23:49:51,559 [main] INFO  (BaseTest.java:50) - Test failed
+2024-01-12T23:50:03,444 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:50:24,445 [main] INFO  (BaseTest.java:34) - Opening browser firefox
+2024-01-12T23:50:33,619 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:50:33,756 [main] INFO  (LoginTest.java:80) - Start loginTestWithBadEmail
+2024-01-12T23:50:36,977 [main] INFO  (LoginTest.java:82) - click login button
+2024-01-12T23:50:42,747 [main] INFO  (LoginTest.java:85) - click email button
+2024-01-12T23:50:44,013 [main] INFO  (LoginTest.java:88) - put user email
+2024-01-12T23:50:44,384 [main] INFO  (LoginTest.java:90) - put password
+2024-01-12T23:50:46,012 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:50:54,680 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:51:14,296 [main] INFO  (BaseTest.java:34) - Opening browser firefox
+2024-01-12T23:51:24,281 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:51:27,893 [main] INFO  (LoginTest.java:57) - Start loginTestWithBadPassword
+2024-01-12T23:51:34,043 [main] INFO  (LoginTest.java:59) - click login button
+2024-01-12T23:51:49,414 [main] INFO  (LoginTest.java:62) - click email button
+2024-01-12T23:51:53,017 [main] INFO  (LoginTest.java:65) - put user email
+2024-01-12T23:51:55,584 [main] INFO  (LoginTest.java:67) - put password
+2024-01-12T23:52:03,051 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:52:10,524 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:52:31,113 [main] INFO  (BaseTest.java:34) - Opening browser firefox
+2024-01-12T23:52:38,614 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:52:38,815 [main] INFO  (LoginTest.java:101) - Start loginTestWithUnregisterUser
+2024-01-12T23:52:48,703 [main] INFO  (LoginTest.java:107) - put user email
+2024-01-12T23:52:49,219 [main] INFO  (LoginTest.java:109) - put password
+2024-01-12T23:52:52,060 [main] INFO  (BaseTest.java:54) - Test success
+2024-01-12T23:52:58,900 [main] INFO  (BaseTest.java:81) - Closing the driver
+2024-01-12T23:53:20,255 [main] INFO  (BaseTest.java:34) - Opening browser firefox
+2024-01-12T23:53:30,485 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:53:35,505 [main] INFO  (AddToCartTest.java:32) - Start test with login
+2024-01-12T23:54:05,572 [main] INFO  (AddToCartTest.java:38) - put user email
+2024-01-12T23:54:08,369 [main] INFO  (AddToCartTest.java:40) - put password
+2024-01-12T23:54:11,073 [main] INFO  (AddToCartTest.java:43) - click login button
+2024-01-12T23:54:57,937 [main] INFO  (BaseTest.java:34) - Opening browser firefox
+2024-01-12T23:55:24,739 [main] INFO  (BaseTest.java:40) - Navigate to https://www.fairplay.com.bo/
+2024-01-12T23:55:29,354 [main] INFO  (ConfirmPurchaseTest.java:32) - Start test with login
+2024-01-12T23:55:42,786 [main] INFO  (ConfirmPurchaseTest.java:38) - put user email
+2024-01-12T23:55:43,399 [main] INFO  (ConfirmPurchaseTest.java:40) - put password
+2024-01-12T23:55:44,580 [main] INFO  (ConfirmPurchaseTest.java:43) - click login button
